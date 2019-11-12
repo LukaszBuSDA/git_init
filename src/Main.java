@@ -6,7 +6,11 @@ public class Main {
     public static void main(String[] args) {
         System.out.println("Hello World");
         System.out.println("pierwszy program");
+
         System.out.println("kolejna zmiana");
+
+          System.out.println("edycja przez pracownika");
+            // konflikt rozwiązany
 
     }
 }
