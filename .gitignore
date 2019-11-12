@@ -1,0 +1,8 @@
+# ignoruje wybrane pliki lub katalogi
+
+# ignoruj plik: pierwszyprojekt.iml
+pierwszyprojekt.iml
+
+# ignoruj katalog .idea
+
+.idea/
